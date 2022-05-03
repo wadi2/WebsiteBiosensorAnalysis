@@ -18,7 +18,7 @@ Fig.1 Illustration of bio-sensing using an imaging-based nanostructure. The acqu
 
 Even as the physical mechanism behind the detection method varies, most research and the deployment of such sensors require similar types of image analysis, which will be elaborated further below. Fig 1. (a) shows one variation of such a sensor, and the detection principle goes as follows: firstly, biological capture molecules, such as antibodies, (any protein spots shown in Fig. 1 (a)) are immobilized on top of the sensor surface. Subsequently, a hyperspectral data cube of the chip is taken (fig. 1 (b), left). Then, a sample liquid e.g. serum, saliva, etc., are placed on top of the chip. After some incubation time, the liquid samples are removed and the hyperspectral data cube of the same chip is taken again. If the target molecule was present within the sample liquid, the sensor will show a different spectral response within a given sample spot (Fig. 1(c)). In order to quantitatively assess how much target molecule was present, the wavelength shift of the peak maxima, Δλ, or the change in intensity at a given wavelength, ΔI(λp), is calculated.  Extracting either piece of information requires comparing the before and after picture of a particular sample, aligning the regions of interest, and dealing with any artifacts, missing spots or partially missing spots.  
 
-![Figure 1](WebsiteBiosensorAnalysis/docs/assets/figure1)
+![Figure 1](WebsiteBiosensorAnalysis/docs/assets/fig1)
 
 
 # The Challenge and Problem Importance 
