@@ -50,23 +50,10 @@ We will use existing image analysis libraries available in the Python programmin
 Challenges 
 Given that the sensors are incubated with biological samples, some debris or other changes unrelated to the experimental conditions are often present in the after images. Determining accurate masks will therefore require some combination of object identification along with positional information based on surrounding objects.  Moreover, the micro-array dispensing does not always give similar images, given that there are many parameters that influence quality. Furthermore, when the sensors (such as antibodies) are fabricated/deposited at the wafer scale, there are some quality variations between the sensor spots. Lastly, since the images are taken with a laser, some diffraction patterns may appear, which will influence the measured intensities of the spots. Some of the challenges are illustrated in the following images.  
 
-Before 
-
-After 
-
-C:\Users\wadi2\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\65CB0FD5.tmp 
-
-C:\Users\wadi2\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\C66F65AB.tmp 
-
-C:\Users\wadi2\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\A294F7F1.tmp 
-
-C:\Users\wadi2\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\C143B027.tmp 
-
-C:\Users\wadi2\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\F29EB3CD.tmp 
-
-C:\Users\wadi2\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\F353C463.tmp 
-
- 
+![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/45469110/166608669-b8f5e8b2-11a7-46a6-a4db-02bb819590cd.png)
+![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/45469110/166608663-81be9703-e52e-4ceb-be10-cab815fb08d5.png)
+![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/45469110/166608670-cbf05a50-c8a6-4489-9760-7e808d5359e4.png)
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/45469110/166608643-f4aeb2aa-ff10-4dca-97e4-446949cf65af.png)
 
 # Current State of the Art 
 
