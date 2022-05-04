@@ -8,6 +8,8 @@
  
 # Introduction 
 
+<img src="https://imagej.net/media/icons/imagej.png">
+
 Refractometric index sensing for biological applications using photonics nanostructures is an emerging method for developing affordable point-of-care diagnostics [1–5]. Leveraging different types of physical phenomena, the presence of target biomolecules can be detected down to a very low concentration (for example as low as 1 pg/mL [3]) using an optical reader that is very similar to a brightfield microscope.  
 
   
