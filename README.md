@@ -2,7 +2,7 @@
 
 ## UW-Madison CS766 Computer Vision Spring 2022 Project Proposal	 
 
-### Team members: Michael Svidro Nelson (msnelson8@wisc.edu), Andrew George Negrut (anegrut@wisc.edu), and Wihan Adi (wadi2@wisc.edu)  
+### Team members: Michael Svidro Nelson , Andrew George Negrut , and Wihan Adi 
  
 ### Code can be found at: https://github.com/wadi2/BiosensorDataAnalysis
  
